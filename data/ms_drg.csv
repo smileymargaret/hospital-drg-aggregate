@@ -1,0 +1,762 @@
+DRG,MDC,MS,Description,MDC Description
+1,0,P,HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM WITH MCC,Pre-MDC
+2,0,P,HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM WITHOUT MCC,Pre-MDC
+3,0,P,"ECMO OR TRACHEOSTOMY WITH MV >96 HOURS OR PDX EXCEPT FACE, MOUTH AND NECK WITH MAJOR O.R. PROCEDURE",Pre-MDC
+4,0,P,"TRACHEOSTOMY WITH MV >96 HOURS OR PDX EXCEPT FACE, MOUTH AND NECK WITHOUT MAJOR O.R. PROCEDURE",Pre-MDC
+5,0,P,LIVER TRANSPLANT WITH MCC OR INTESTINAL TRANSPLANT,Pre-MDC
+6,0,P,LIVER TRANSPLANT WITHOUT MCC,Pre-MDC
+7,0,P,LUNG TRANSPLANT,Pre-MDC
+8,0,P,SIMULTANEOUS PANCREAS AND KIDNEY TRANSPLANT,Pre-MDC
+10,0,P,PANCREAS TRANSPLANT,Pre-MDC
+11,0,P,"TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY WITH MCC",Pre-MDC
+12,0,P,"TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY WITH CC",Pre-MDC
+13,0,P,"TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY WITHOUT CC/MCC",Pre-MDC
+14,0,P,ALLOGENEIC BONE MARROW TRANSPLANT,Pre-MDC
+16,0,P,AUTOLOGOUS BONE MARROW TRANSPLANT WITH CC/MCC OR T-CELL IMMUNOTHERAPY,Pre-MDC
+17,0,P,AUTOLOGOUS BONE MARROW TRANSPLANT WITHOUT CC/MCC,Pre-MDC
+20,1,P,INTRACRANIAL VASCULAR PROCEDURES WITH PDX HEMORRHAGE WITH MCC,Diseases & Disorders of the Nervous System
+21,1,P,INTRACRANIAL VASCULAR PROCEDURES WITH PDX HEMORRHAGE WITH CC,Diseases & Disorders of the Nervous System
+22,1,P,INTRACRANIAL VASCULAR PROCEDURES WITH PDX HEMORRHAGE WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+23,1,P,CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PDX WITH MCC OR CHEMOTHERAPY IMPLANT OR EPILEPSY WITH NEUROSTIMULATOR,Diseases & Disorders of the Nervous System
+24,1,P,CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PDX WITHOUT MCC,Diseases & Disorders of the Nervous System
+25,1,P,CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC,Diseases & Disorders of the Nervous System
+26,1,P,CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC,Diseases & Disorders of the Nervous System
+27,1,P,CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+28,1,P,SPINAL PROCEDURES WITH MCC,Diseases & Disorders of the Nervous System
+29,1,P,SPINAL PROCEDURES WITH CC OR SPINAL NEUROSTIMULATORS,Diseases & Disorders of the Nervous System
+30,1,P,SPINAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+31,1,P,VENTRICULAR SHUNT PROCEDURES WITH MCC,Diseases & Disorders of the Nervous System
+32,1,P,VENTRICULAR SHUNT PROCEDURES WITH CC,Diseases & Disorders of the Nervous System
+33,1,P,VENTRICULAR SHUNT PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+34,1,P,CAROTID ARTERY STENT PROCEDURE WITH MCC,Diseases & Disorders of the Nervous System
+35,1,P,CAROTID ARTERY STENT PROCEDURE WITH CC,Diseases & Disorders of the Nervous System
+36,1,P,CAROTID ARTERY STENT PROCEDURE WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+37,1,P,EXTRACRANIAL PROCEDURES WITH MCC,Diseases & Disorders of the Nervous System
+38,1,P,EXTRACRANIAL PROCEDURES WITH CC,Diseases & Disorders of the Nervous System
+39,1,P,EXTRACRANIAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+40,1,P,"PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITH MCC",Diseases & Disorders of the Nervous System
+41,1,P,"PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITH CC OR PERIPHERAL NEUROSTIMULATOR",Diseases & Disorders of the Nervous System
+42,1,P,"PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Nervous System
+52,1,M,SPINAL DISORDERS AND INJURIES WITH CC/MCC,Diseases & Disorders of the Nervous System
+53,1,M,SPINAL DISORDERS AND INJURIES WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+54,1,M,NERVOUS SYSTEM NEOPLASMS WITH MCC,Diseases & Disorders of the Nervous System
+55,1,M,NERVOUS SYSTEM NEOPLASMS WITHOUT MCC,Diseases & Disorders of the Nervous System
+56,1,M,DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC,Diseases & Disorders of the Nervous System
+57,1,M,DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC,Diseases & Disorders of the Nervous System
+58,1,M,MULTIPLE SCLEROSIS AND CEREBELLAR ATAXIA WITH MCC,Diseases & Disorders of the Nervous System
+59,1,M,MULTIPLE SCLEROSIS AND CEREBELLAR ATAXIA WITH CC,Diseases & Disorders of the Nervous System
+60,1,M,MULTIPLE SCLEROSIS AND CEREBELLAR ATAXIA WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+61,1,M,"ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WITH MCC",Diseases & Disorders of the Nervous System
+62,1,M,"ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WITH CC",Diseases & Disorders of the Nervous System
+63,1,M,"ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WITHOUT CC/MCC",Diseases & Disorders of the Nervous System
+64,1,M,INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC,Diseases & Disorders of the Nervous System
+65,1,M,INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS,Diseases & Disorders of the Nervous System
+66,1,M,INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+67,1,M,NONSPECIFIC CVA AND PRECEREBRAL OCCLUSION WITHOUT INFARCTION WITH MCC,Diseases & Disorders of the Nervous System
+68,1,M,NONSPECIFIC CVA AND PRECEREBRAL OCCLUSION WITHOUT INFARCTION WITHOUT MCC,Diseases & Disorders of the Nervous System
+69,1,M,TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC,Diseases & Disorders of the Nervous System
+70,1,M,NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC,Diseases & Disorders of the Nervous System
+71,1,M,NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC,Diseases & Disorders of the Nervous System
+72,1,M,NONSPECIFIC CEREBROVASCULAR DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+73,1,M,CRANIAL AND PERIPHERAL NERVE DISORDERS WITH MCC,Diseases & Disorders of the Nervous System
+74,1,M,CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC,Diseases & Disorders of the Nervous System
+75,1,M,VIRAL MENINGITIS WITH CC/MCC,Diseases & Disorders of the Nervous System
+76,1,M,VIRAL MENINGITIS WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+77,1,M,HYPERTENSIVE ENCEPHALOPATHY WITH MCC,Diseases & Disorders of the Nervous System
+78,1,M,HYPERTENSIVE ENCEPHALOPATHY WITH CC,Diseases & Disorders of the Nervous System
+79,1,M,HYPERTENSIVE ENCEPHALOPATHY WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+80,1,M,NONTRAUMATIC STUPOR AND COMA WITH MCC,Diseases & Disorders of the Nervous System
+81,1,M,NONTRAUMATIC STUPOR AND COMA WITHOUT MCC,Diseases & Disorders of the Nervous System
+82,1,M,"TRAUMATIC STUPOR AND COMA, COMA >1 HOUR WITH MCC",Diseases & Disorders of the Nervous System
+83,1,M,"TRAUMATIC STUPOR AND COMA, COMA >1 HOUR WITH CC",Diseases & Disorders of the Nervous System
+84,1,M,"TRAUMATIC STUPOR AND COMA, COMA >1 HOUR WITHOUT CC/MCC",Diseases & Disorders of the Nervous System
+85,1,M,"TRAUMATIC STUPOR AND COMA, COMA <1 HOUR WITH MCC",Diseases & Disorders of the Nervous System
+86,1,M,"TRAUMATIC STUPOR AND COMA, COMA <1 HOUR WITH CC",Diseases & Disorders of the Nervous System
+87,1,M,"TRAUMATIC STUPOR AND COMA, COMA <1 HOUR WITHOUT CC/MCC",Diseases & Disorders of the Nervous System
+88,1,M,CONCUSSION WITH MCC,Diseases & Disorders of the Nervous System
+89,1,M,CONCUSSION WITH CC,Diseases & Disorders of the Nervous System
+90,1,M,CONCUSSION WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+91,1,M,OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC,Diseases & Disorders of the Nervous System
+92,1,M,OTHER DISORDERS OF NERVOUS SYSTEM WITH CC,Diseases & Disorders of the Nervous System
+93,1,M,OTHER DISORDERS OF NERVOUS SYSTEM WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+94,1,M,BACTERIAL AND TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM WITH MCC,Diseases & Disorders of the Nervous System
+95,1,M,BACTERIAL AND TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM WITH CC,Diseases & Disorders of the Nervous System
+96,1,M,BACTERIAL AND TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+97,1,M,NON-BACTERIAL INFECTION OF NERVOUS SYSTEM EXCEPT VIRAL MENINGITIS WITH MCC,Diseases & Disorders of the Nervous System
+98,1,M,NON-BACTERIAL INFECTION OF NERVOUS SYSTEM EXCEPT VIRAL MENINGITIS WITH CC,Diseases & Disorders of the Nervous System
+99,1,M,NON-BACTERIAL INFECTION OF NERVOUS SYSTEM EXCEPT VIRAL MENINGITIS WITHOUT CC/MCC,Diseases & Disorders of the Nervous System
+100,1,M,SEIZURES WITH MCC,Diseases & Disorders of the Nervous System
+101,1,M,SEIZURES WITHOUT MCC,Diseases & Disorders of the Nervous System
+102,1,M,HEADACHES WITH MCC,Diseases & Disorders of the Nervous System
+103,1,M,HEADACHES WITHOUT MCC,Diseases & Disorders of the Nervous System
+113,2,P,ORBITAL PROCEDURES WITH CC/MCC,Diseases & Disorders of the Eye
+114,2,P,ORBITAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Eye
+115,2,P,EXTRAOCULAR PROCEDURES EXCEPT ORBIT,Diseases & Disorders of the Eye
+116,2,P,INTRAOCULAR PROCEDURES WITH CC/MCC,Diseases & Disorders of the Eye
+117,2,P,INTRAOCULAR PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Eye
+121,2,M,ACUTE MAJOR EYE INFECTIONS WITH CC/MCC,Diseases & Disorders of the Eye
+122,2,M,ACUTE MAJOR EYE INFECTIONS WITHOUT CC/MCC,Diseases & Disorders of the Eye
+123,2,M,NEUROLOGICAL EYE DISORDERS,Diseases & Disorders of the Eye
+124,2,M,OTHER DISORDERS OF THE EYE WITH MCC,Diseases & Disorders of the Eye
+125,2,M,OTHER DISORDERS OF THE EYE WITHOUT MCC,Diseases & Disorders of the Eye
+129,3,P,MAJOR HEAD AND NECK PROCEDURES WITH CC/MCC OR MAJOR DEVICE,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+130,3,P,MAJOR HEAD AND NECK PROCEDURES WITHOUT CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+131,3,P,CRANIAL AND FACIAL PROCEDURES WITH CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+132,3,P,CRANIAL AND FACIAL PROCEDURES WITHOUT CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+133,3,P,"OTHER EAR, NOSE, MOUTH AND THROAT O.R. PROCEDURES WITH CC/MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+134,3,P,"OTHER EAR, NOSE, MOUTH AND THROAT O.R. PROCEDURES WITHOUT CC/MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+135,3,P,SINUS AND MASTOID PROCEDURES WITH CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+136,3,P,SINUS AND MASTOID PROCEDURES WITHOUT CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+137,3,P,MOUTH PROCEDURES WITH CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+138,3,P,MOUTH PROCEDURES WITHOUT CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+139,3,P,SALIVARY GLAND PROCEDURES,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+146,3,M,"EAR, NOSE, MOUTH AND THROAT MALIGNANCY WITH MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+147,3,M,"EAR, NOSE, MOUTH AND THROAT MALIGNANCY WITH CC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+148,3,M,"EAR, NOSE, MOUTH AND THROAT MALIGNANCY WITHOUT CC/MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+149,3,M,DYSEQUILIBRIUM,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+150,3,M,EPISTAXIS WITH MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+151,3,M,EPISTAXIS WITHOUT MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+152,3,M,OTITIS MEDIA AND URI WITH MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+153,3,M,OTITIS MEDIA AND URI WITHOUT MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+154,3,M,"OTHER EAR, NOSE, MOUTH AND THROAT DIAGNOSES WITH MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+155,3,M,"OTHER EAR, NOSE, MOUTH AND THROAT DIAGNOSES WITH CC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+156,3,M,"OTHER EAR, NOSE, MOUTH AND THROAT DIAGNOSES WITHOUT CC/MCC","Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+157,3,M,DENTAL AND ORAL DISEASES WITH MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+158,3,M,DENTAL AND ORAL DISEASES WITH CC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+159,3,M,DENTAL AND ORAL DISEASES WITHOUT CC/MCC,"Diseases & Disorders of the Ear, Nose, Mouth & Throat"
+163,4,P,MAJOR CHEST PROCEDURES WITH MCC,Diseases & Disorders of the Respiratory System
+164,4,P,MAJOR CHEST PROCEDURES WITH CC,Diseases & Disorders of the Respiratory System
+165,4,P,MAJOR CHEST PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+166,4,P,OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH MCC,Diseases & Disorders of the Respiratory System
+167,4,P,OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH CC,Diseases & Disorders of the Respiratory System
+168,4,P,OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+175,4,M,PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE,Diseases & Disorders of the Respiratory System
+176,4,M,PULMONARY EMBOLISM WITHOUT MCC,Diseases & Disorders of the Respiratory System
+177,4,M,RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC,Diseases & Disorders of the Respiratory System
+178,4,M,RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC,Diseases & Disorders of the Respiratory System
+179,4,M,RESPIRATORY INFECTIONS AND INFLAMMATIONS WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+180,4,M,RESPIRATORY NEOPLASMS WITH MCC,Diseases & Disorders of the Respiratory System
+181,4,M,RESPIRATORY NEOPLASMS WITH CC,Diseases & Disorders of the Respiratory System
+182,4,M,RESPIRATORY NEOPLASMS WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+183,4,M,MAJOR CHEST TRAUMA WITH MCC,Diseases & Disorders of the Respiratory System
+184,4,M,MAJOR CHEST TRAUMA WITH CC,Diseases & Disorders of the Respiratory System
+185,4,M,MAJOR CHEST TRAUMA WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+186,4,M,PLEURAL EFFUSION WITH MCC,Diseases & Disorders of the Respiratory System
+187,4,M,PLEURAL EFFUSION WITH CC,Diseases & Disorders of the Respiratory System
+188,4,M,PLEURAL EFFUSION WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+189,4,M,PULMONARY EDEMA AND RESPIRATORY FAILURE,Diseases & Disorders of the Respiratory System
+190,4,M,CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC,Diseases & Disorders of the Respiratory System
+191,4,M,CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC,Diseases & Disorders of the Respiratory System
+192,4,M,CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+193,4,M,SIMPLE PNEUMONIA AND PLEURISY WITH MCC,Diseases & Disorders of the Respiratory System
+194,4,M,SIMPLE PNEUMONIA AND PLEURISY WITH CC,Diseases & Disorders of the Respiratory System
+195,4,M,SIMPLE PNEUMONIA AND PLEURISY WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+196,4,M,INTERSTITIAL LUNG DISEASE WITH MCC,Diseases & Disorders of the Respiratory System
+197,4,M,INTERSTITIAL LUNG DISEASE WITH CC,Diseases & Disorders of the Respiratory System
+198,4,M,INTERSTITIAL LUNG DISEASE WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+199,4,M,PNEUMOTHORAX WITH MCC,Diseases & Disorders of the Respiratory System
+200,4,M,PNEUMOTHORAX WITH CC,Diseases & Disorders of the Respiratory System
+201,4,M,PNEUMOTHORAX WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+202,4,M,BRONCHITIS AND ASTHMA WITH CC/MCC,Diseases & Disorders of the Respiratory System
+203,4,M,BRONCHITIS AND ASTHMA WITHOUT CC/MCC,Diseases & Disorders of the Respiratory System
+204,4,M,RESPIRATORY SIGNS AND SYMPTOMS,Diseases & Disorders of the Respiratory System
+205,4,M,OTHER RESPIRATORY SYSTEM DIAGNOSES WITH MCC,Diseases & Disorders of the Respiratory System
+206,4,M,OTHER RESPIRATORY SYSTEM DIAGNOSES WITHOUT MCC,Diseases & Disorders of the Respiratory System
+207,4,M,RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS,Diseases & Disorders of the Respiratory System
+208,4,M,RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS,Diseases & Disorders of the Respiratory System
+215,5,P,OTHER HEART ASSIST SYSTEM IMPLANT,Diseases & Disorders of the Circulatory System
+216,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WITH MCC,Diseases & Disorders of the Circulatory System
+217,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WITH CC,Diseases & Disorders of the Circulatory System
+218,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+219,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION WITH MCC,Diseases & Disorders of the Circulatory System
+220,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION WITH CC,Diseases & Disorders of the Circulatory System
+221,5,P,CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+222,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITH CARDIAC CATHETERIZATION WITH AMI/HF/SHOCK WITH MCC,Diseases & Disorders of the Circulatory System
+223,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITH CARDIAC CATHETERIZATION WITH AMI/HF/SHOCK WITHOUT MCC,Diseases & Disorders of the Circulatory System
+224,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITH CARDIAC CATHETERIZATION WITHOUT AMI/HF/SHOCK WITH MCC,Diseases & Disorders of the Circulatory System
+225,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITH CARDIAC CATHETERIZATION WITHOUT AMI/HF/SHOCK WITHOUT MCC,Diseases & Disorders of the Circulatory System
+226,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITHOUT CARDIAC CATHETERIZATION WITH MCC,Diseases & Disorders of the Circulatory System
+227,5,P,CARDIAC DEFIBRILLATOR IMPLANT WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC,Diseases & Disorders of the Circulatory System
+228,5,P,OTHER CARDIOTHORACIC PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+229,5,P,OTHER CARDIOTHORACIC PROCEDURES WITHOUT MCC,Diseases & Disorders of the Circulatory System
+231,5,P,CORONARY BYPASS WITH PTCA WITH MCC,Diseases & Disorders of the Circulatory System
+232,5,P,CORONARY BYPASS WITH PTCA WITHOUT MCC,Diseases & Disorders of the Circulatory System
+233,5,P,CORONARY BYPASS WITH CARDIAC CATHETERIZATION WITH MCC,Diseases & Disorders of the Circulatory System
+234,5,P,CORONARY BYPASS WITH CARDIAC CATHETERIZATION WITHOUT MCC,Diseases & Disorders of the Circulatory System
+235,5,P,CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC,Diseases & Disorders of the Circulatory System
+236,5,P,CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC,Diseases & Disorders of the Circulatory System
+239,5,P,AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH MCC,Diseases & Disorders of the Circulatory System
+240,5,P,AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH CC,Diseases & Disorders of the Circulatory System
+241,5,P,AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+242,5,P,PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC,Diseases & Disorders of the Circulatory System
+243,5,P,PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC,Diseases & Disorders of the Circulatory System
+244,5,P,PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+245,5,P,AICD GENERATOR PROCEDURES,Diseases & Disorders of the Circulatory System
+246,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES OR STENTS,Diseases & Disorders of the Circulatory System
+247,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC,Diseases & Disorders of the Circulatory System
+248,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH NON-DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES OR STENTS,Diseases & Disorders of the Circulatory System
+249,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH NON-DRUG-ELUTING STENT WITHOUT MCC,Diseases & Disorders of the Circulatory System
+250,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITHOUT CORONARY ARTERY STENT WITH MCC,Diseases & Disorders of the Circulatory System
+251,5,P,PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITHOUT CORONARY ARTERY STENT WITHOUT MCC,Diseases & Disorders of the Circulatory System
+252,5,P,OTHER VASCULAR PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+253,5,P,OTHER VASCULAR PROCEDURES WITH CC,Diseases & Disorders of the Circulatory System
+254,5,P,OTHER VASCULAR PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+255,5,P,UPPER LIMB AND TOE AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS WITH MCC,Diseases & Disorders of the Circulatory System
+256,5,P,UPPER LIMB AND TOE AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS WITH CC,Diseases & Disorders of the Circulatory System
+257,5,P,UPPER LIMB AND TOE AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+258,5,P,CARDIAC PACEMAKER DEVICE REPLACEMENT WITH MCC,Diseases & Disorders of the Circulatory System
+259,5,P,CARDIAC PACEMAKER DEVICE REPLACEMENT WITHOUT MCC,Diseases & Disorders of the Circulatory System
+260,5,P,CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT WITH MCC,Diseases & Disorders of the Circulatory System
+261,5,P,CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT WITH CC,Diseases & Disorders of the Circulatory System
+262,5,P,CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+263,5,P,VEIN LIGATION AND STRIPPING,Diseases & Disorders of the Circulatory System
+264,5,P,OTHER CIRCULATORY SYSTEM O.R. PROCEDURES,Diseases & Disorders of the Circulatory System
+265,5,P,AICD LEAD PROCEDURES,Diseases & Disorders of the Circulatory System
+266,5,P,ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+267,5,P,ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC,Diseases & Disorders of the Circulatory System
+268,5,P,AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITH MCC,Diseases & Disorders of the Circulatory System
+269,5,P,AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC,Diseases & Disorders of the Circulatory System
+270,5,P,OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+271,5,P,OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC,Diseases & Disorders of the Circulatory System
+272,5,P,OTHER MAJOR CARDIOVASCULAR PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+273,5,P,PERCUTANEOUS INTRACARDIAC PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+274,5,P,PERCUTANEOUS INTRACARDIAC PROCEDURES WITHOUT MCC,Diseases & Disorders of the Circulatory System
+280,5,M,"ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",Diseases & Disorders of the Circulatory System
+281,5,M,"ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",Diseases & Disorders of the Circulatory System
+282,5,M,"ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",Diseases & Disorders of the Circulatory System
+283,5,M,"ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",Diseases & Disorders of the Circulatory System
+284,5,M,"ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH CC",Diseases & Disorders of the Circulatory System
+285,5,M,"ACUTE MYOCARDIAL INFARCTION, EXPIRED WITHOUT CC/MCC",Diseases & Disorders of the Circulatory System
+286,5,M,"CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATETERIZATION WITH MCC",Diseases & Disorders of the Circulatory System
+287,5,M,"CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATETERIZATION WITHOUT MCC",Diseases & Disorders of the Circulatory System
+288,5,M,ACUTE AND SUBACUTE ENDOCARDITIS WITH MCC,Diseases & Disorders of the Circulatory System
+289,5,M,ACUTE AND SUBACUTE ENDOCARDITIS WITH CC,Diseases & Disorders of the Circulatory System
+290,5,M,ACUTE AND SUBACUTE ENDOCARDITIS WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+291,5,M,HEART FAILURE AND SHOCK WITH MCC,Diseases & Disorders of the Circulatory System
+292,5,M,HEART FAILURE AND SHOCK WITH CC,Diseases & Disorders of the Circulatory System
+293,5,M,HEART FAILURE AND SHOCK WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+294,5,M,DEEP VEIN THROMBOPHLEBITIS WITH CC/MCC,Diseases & Disorders of the Circulatory System
+295,5,M,DEEP VEIN THROMBOPHLEBITIS WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+296,5,M,"CARDIAC ARREST, UNEXPLAINED WITH MCC",Diseases & Disorders of the Circulatory System
+297,5,M,"CARDIAC ARREST, UNEXPLAINED WITH CC",Diseases & Disorders of the Circulatory System
+298,5,M,"CARDIAC ARREST, UNEXPLAINED WITHOUT CC/MCC",Diseases & Disorders of the Circulatory System
+299,5,M,PERIPHERAL VASCULAR DISORDERS WITH MCC,Diseases & Disorders of the Circulatory System
+300,5,M,PERIPHERAL VASCULAR DISORDERS WITH CC,Diseases & Disorders of the Circulatory System
+301,5,M,PERIPHERAL VASCULAR DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+302,5,M,ATHEROSCLEROSIS WITH MCC,Diseases & Disorders of the Circulatory System
+303,5,M,ATHEROSCLEROSIS WITHOUT MCC,Diseases & Disorders of the Circulatory System
+304,5,M,HYPERTENSION WITH MCC,Diseases & Disorders of the Circulatory System
+305,5,M,HYPERTENSION WITHOUT MCC,Diseases & Disorders of the Circulatory System
+306,5,M,CARDIAC CONGENITAL AND VALVULAR DISORDERS WITH MCC,Diseases & Disorders of the Circulatory System
+307,5,M,CARDIAC CONGENITAL AND VALVULAR DISORDERS WITHOUT MCC,Diseases & Disorders of the Circulatory System
+308,5,M,CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC,Diseases & Disorders of the Circulatory System
+309,5,M,CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC,Diseases & Disorders of the Circulatory System
+310,5,M,CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+311,5,M,ANGINA PECTORIS,Diseases & Disorders of the Circulatory System
+312,5,M,SYNCOPE AND COLLAPSE,Diseases & Disorders of the Circulatory System
+313,5,M,CHEST PAIN,Diseases & Disorders of the Circulatory System
+314,5,M,OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC,Diseases & Disorders of the Circulatory System
+315,5,M,OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC,Diseases & Disorders of the Circulatory System
+316,5,M,OTHER CIRCULATORY SYSTEM DIAGNOSES WITHOUT CC/MCC,Diseases & Disorders of the Circulatory System
+319,5,P,OTHER ENDOVASCULAR CARDIAC VALVE PROCEDURES WITH MCC,Diseases & Disorders of the Circulatory System
+320,5,P,OTHER ENDOVASCULAR CARDIAC VALVE PROCEDURES WITHOUT MCC,Diseases & Disorders of the Circulatory System
+326,6,P,"STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",Diseases & Disorders of the Digestive System
+327,6,P,"STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH CC",Diseases & Disorders of the Digestive System
+328,6,P,"STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Digestive System
+329,6,P,MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC,Diseases & Disorders of the Digestive System
+330,6,P,MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC,Diseases & Disorders of the Digestive System
+331,6,P,MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+332,6,P,RECTAL RESECTION WITH MCC,Diseases & Disorders of the Digestive System
+333,6,P,RECTAL RESECTION WITH CC,Diseases & Disorders of the Digestive System
+334,6,P,RECTAL RESECTION WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+335,6,P,PERITONEAL ADHESIOLYSIS WITH MCC,Diseases & Disorders of the Digestive System
+336,6,P,PERITONEAL ADHESIOLYSIS WITH CC,Diseases & Disorders of the Digestive System
+337,6,P,PERITONEAL ADHESIOLYSIS WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+338,6,P,APPENDECTOMY WITH COMPLICATED PRINCIPAL DIAGNOSIS WITH MCC,Diseases & Disorders of the Digestive System
+339,6,P,APPENDECTOMY WITH COMPLICATED PRINCIPAL DIAGNOSIS WITH CC,Diseases & Disorders of the Digestive System
+340,6,P,APPENDECTOMY WITH COMPLICATED PRINCIPAL DIAGNOSIS WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+341,6,P,APPENDECTOMY WITHOUT COMPLICATED PRINCIPAL DIAGNOSIS WITH MCC,Diseases & Disorders of the Digestive System
+342,6,P,APPENDECTOMY WITHOUT COMPLICATED PRINCIPAL DIAGNOSIS WITH CC,Diseases & Disorders of the Digestive System
+343,6,P,APPENDECTOMY WITHOUT COMPLICATED PRINCIPAL DIAGNOSIS WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+344,6,P,MINOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC,Diseases & Disorders of the Digestive System
+345,6,P,MINOR SMALL AND LARGE BOWEL PROCEDURES WITH CC,Diseases & Disorders of the Digestive System
+346,6,P,MINOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+347,6,P,ANAL AND STOMAL PROCEDURES WITH MCC,Diseases & Disorders of the Digestive System
+348,6,P,ANAL AND STOMAL PROCEDURES WITH CC,Diseases & Disorders of the Digestive System
+349,6,P,ANAL AND STOMAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+350,6,P,INGUINAL AND FEMORAL HERNIA PROCEDURES WITH MCC,Diseases & Disorders of the Digestive System
+351,6,P,INGUINAL AND FEMORAL HERNIA PROCEDURES WITH CC,Diseases & Disorders of the Digestive System
+352,6,P,INGUINAL AND FEMORAL HERNIA PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+353,6,P,HERNIA PROCEDURES EXCEPT INGUINAL AND FEMORAL WITH MCC,Diseases & Disorders of the Digestive System
+354,6,P,HERNIA PROCEDURES EXCEPT INGUINAL AND FEMORAL WITH CC,Diseases & Disorders of the Digestive System
+355,6,P,HERNIA PROCEDURES EXCEPT INGUINAL AND FEMORAL WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+356,6,P,OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH MCC,Diseases & Disorders of the Digestive System
+357,6,P,OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH CC,Diseases & Disorders of the Digestive System
+358,6,P,OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+368,6,M,MAJOR ESOPHAGEAL DISORDERS WITH MCC,Diseases & Disorders of the Digestive System
+369,6,M,MAJOR ESOPHAGEAL DISORDERS WITH CC,Diseases & Disorders of the Digestive System
+370,6,M,MAJOR ESOPHAGEAL DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+371,6,M,MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC,Diseases & Disorders of the Digestive System
+372,6,M,MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC,Diseases & Disorders of the Digestive System
+373,6,M,MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+374,6,M,DIGESTIVE MALIGNANCY WITH MCC,Diseases & Disorders of the Digestive System
+375,6,M,DIGESTIVE MALIGNANCY WITH CC,Diseases & Disorders of the Digestive System
+376,6,M,DIGESTIVE MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+377,6,M,G.I. HEMORRHAGE WITH MCC,Diseases & Disorders of the Digestive System
+378,6,M,G.I. HEMORRHAGE WITH CC,Diseases & Disorders of the Digestive System
+379,6,M,G.I. HEMORRHAGE WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+380,6,M,COMPLICATED PEPTIC ULCER WITH MCC,Diseases & Disorders of the Digestive System
+381,6,M,COMPLICATED PEPTIC ULCER WITH CC,Diseases & Disorders of the Digestive System
+382,6,M,COMPLICATED PEPTIC ULCER WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+383,6,M,UNCOMPLICATED PEPTIC ULCER WITH MCC,Diseases & Disorders of the Digestive System
+384,6,M,UNCOMPLICATED PEPTIC ULCER WITHOUT MCC,Diseases & Disorders of the Digestive System
+385,6,M,INFLAMMATORY BOWEL DISEASE WITH MCC,Diseases & Disorders of the Digestive System
+386,6,M,INFLAMMATORY BOWEL DISEASE WITH CC,Diseases & Disorders of the Digestive System
+387,6,M,INFLAMMATORY BOWEL DISEASE WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+388,6,M,G.I. OBSTRUCTION WITH MCC,Diseases & Disorders of the Digestive System
+389,6,M,G.I. OBSTRUCTION WITH CC,Diseases & Disorders of the Digestive System
+390,6,M,G.I. OBSTRUCTION WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+391,6,M,"ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",Diseases & Disorders of the Digestive System
+392,6,M,"ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",Diseases & Disorders of the Digestive System
+393,6,M,OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC,Diseases & Disorders of the Digestive System
+394,6,M,OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC,Diseases & Disorders of the Digestive System
+395,6,M,OTHER DIGESTIVE SYSTEM DIAGNOSES WITHOUT CC/MCC,Diseases & Disorders of the Digestive System
+405,7,P,"PANCREAS, LIVER AND SHUNT PROCEDURES WITH MCC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+406,7,P,"PANCREAS, LIVER AND SHUNT PROCEDURES WITH CC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+407,7,P,"PANCREAS, LIVER AND SHUNT PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+408,7,P,BILIARY TRACT PROCEDURE EXCEPT ONLY CHOLECYSTECTOMY WITH OR WITHOUT C.D.E. WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+409,7,P,BILIARY TRACT PROCEDURE EXCEPT ONLY CHOLECYSTECTOMY WITH OR WITHOUT C.D.E. WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+410,7,P,BILIARY TRACT PROCEDURE EXCEPT ONLY CHOLECYSTECTOMY WITH OR WITHOUT C.D.E. WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+411,7,P,CHOLECYSTECTOMY WITH C.D.E. WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+412,7,P,CHOLECYSTECTOMY WITH C.D.E. WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+413,7,P,CHOLECYSTECTOMY WITH C.D.E. WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+414,7,P,CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE WITHOUT C.D.E. WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+415,7,P,CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE WITHOUT C.D.E. WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+416,7,P,CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE WITHOUT C.D.E. WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+417,7,P,LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+418,7,P,LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+419,7,P,LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+420,7,P,HEPATOBILIARY DIAGNOSTIC PROCEDURES WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+421,7,P,HEPATOBILIARY DIAGNOSTIC PROCEDURES WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+422,7,P,HEPATOBILIARY DIAGNOSTIC PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+423,7,P,OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+424,7,P,OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+425,7,P,OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+432,7,M,CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+433,7,M,CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+434,7,M,CIRRHOSIS AND ALCOHOLIC HEPATITIS WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+435,7,M,MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+436,7,M,MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+437,7,M,MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+438,7,M,DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+439,7,M,DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+440,7,M,DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+441,7,M,"DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+442,7,M,"DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+443,7,M,"DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITHOUT CC/MCC",Diseases & Disorders of the Hepatobiliary System & Pancreas
+444,7,M,DISORDERS OF THE BILIARY TRACT WITH MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+445,7,M,DISORDERS OF THE BILIARY TRACT WITH CC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+446,7,M,DISORDERS OF THE BILIARY TRACT WITHOUT CC/MCC,Diseases & Disorders of the Hepatobiliary System & Pancreas
+453,8,P,COMBINED ANTERIOR/POSTERIOR SPINAL FUSION WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+454,8,P,COMBINED ANTERIOR/POSTERIOR SPINAL FUSION WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+455,8,P,COMBINED ANTERIOR/POSTERIOR SPINAL FUSION WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+456,8,P,SPINAL FUSION EXCEPT CERVICAL WITH SPINAL CURVATURE OR MALIGNANCY OR INFECTION OR EXTENSIVE FUSIONS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+457,8,P,SPINAL FUSION EXCEPT CERVICAL WITH SPINAL CURVATURE OR MALIGNANCY OR INFECTION OR EXTENSIVE FUSIONS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+458,8,P,SPINAL FUSION EXCEPT CERVICAL WITH SPINAL CURVATURE OR MALIGNANCY OR INFECTION OR EXTENSIVE FUSIONS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+459,8,P,SPINAL FUSION EXCEPT CERVICAL WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+460,8,P,SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+461,8,P,BILATERAL OR MULTIPLE MAJOR JOINT PROCEDURES OF LOWER EXTREMITY WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+462,8,P,BILATERAL OR MULTIPLE MAJOR JOINT PROCEDURES OF LOWER EXTREMITY WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+463,8,P,WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+464,8,P,WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+465,8,P,WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+466,8,P,REVISION OF HIP OR KNEE REPLACEMENT WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+467,8,P,REVISION OF HIP OR KNEE REPLACEMENT WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+468,8,P,REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+469,8,P,MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITH MCC OR TOTAL ANKLE REPLACEMENT,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+470,8,P,MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+471,8,P,CERVICAL SPINAL FUSION WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+472,8,P,CERVICAL SPINAL FUSION WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+473,8,P,CERVICAL SPINAL FUSION WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+474,8,P,AMPUTATION FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+475,8,P,AMPUTATION FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+476,8,P,AMPUTATION FOR MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+477,8,P,BIOPSIES OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+478,8,P,BIOPSIES OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+479,8,P,BIOPSIES OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+480,8,P,HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+481,8,P,HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+482,8,P,HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+483,8,P,MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+485,8,P,KNEE PROCEDURES WITH PDX OF INFECTION WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+486,8,P,KNEE PROCEDURES WITH PDX OF INFECTION WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+487,8,P,KNEE PROCEDURES WITH PDX OF INFECTION WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+488,8,P,KNEE PROCEDURES WITHOUT PDX OF INFECTION WITH CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+489,8,P,KNEE PROCEDURES WITHOUT PDX OF INFECTION WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+492,8,P,"LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+493,8,P,"LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+494,8,P,"LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITHOUT CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+495,8,P,LOCAL EXCISION AND REMOVAL OF INTERNAL FIXATION DEVICES EXCEPT HIP AND FEMUR WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+496,8,P,LOCAL EXCISION AND REMOVAL OF INTERNAL FIXATION DEVICES EXCEPT HIP AND FEMUR WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+497,8,P,LOCAL EXCISION AND REMOVAL INTERNAL FIXATION DEVICES EXCEPT HIP AND FEMUR WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+498,8,P,LOCAL EXCISION AND REMOVAL INTERNAL FIXATION DEVICES OF HIP AND FEMUR WITH CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+499,8,P,LOCAL EXCISION AND REMOVAL INTERNAL FIXATION DEVICES OF HIP AND FEMUR WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+500,8,P,SOFT TISSUE PROCEDURES WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+501,8,P,SOFT TISSUE PROCEDURES WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+502,8,P,SOFT TISSUE PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+503,8,P,FOOT PROCEDURES WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+504,8,P,FOOT PROCEDURES WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+505,8,P,FOOT PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+506,8,P,MAJOR THUMB OR JOINT PROCEDURES,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+507,8,P,MAJOR SHOULDER OR ELBOW JOINT PROCEDURES WITH CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+508,8,P,MAJOR SHOULDER OR ELBOW JOINT PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+509,8,P,ARTHROSCOPY,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+510,8,P,"SHOULDER, ELBOW OR FOREARM PROCEDURES, EXCEPT MAJOR JOINT PROCEDURES WITH MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+511,8,P,"SHOULDER, ELBOW OR FOREARM PROCEDURES, EXCEPT MAJOR JOINT PROCEDURES WITH CC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+512,8,P,"SHOULDER, ELBOW OR FOREARM PROCEDURES, EXCEPT MAJOR JOINT PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+513,8,P,"HAND OR WRIST PROCEDURES, EXCEPT MAJOR THUMB OR JOINT PROCEDURES WITH CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+514,8,P,"HAND OR WRIST PROCEDURES, EXCEPT MAJOR THUMB OR JOINT PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+515,8,P,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+516,8,P,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+517,8,P,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+518,8,P,BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH MCC OR DISC DEVICE OR NEUROSTIMULATOR,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+519,8,P,BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+520,8,P,BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+533,8,M,FRACTURES OF FEMUR WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+534,8,M,FRACTURES OF FEMUR WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+535,8,M,FRACTURES OF HIP AND PELVIS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+536,8,M,FRACTURES OF HIP AND PELVIS WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+537,8,M,"SPRAINS, STRAINS, AND DISLOCATIONS OF HIP, PELVIS AND THIGH WITH CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+538,8,M,"SPRAINS, STRAINS, AND DISLOCATIONS OF HIP, PELVIS AND THIGH WITHOUT CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+539,8,M,OSTEOMYELITIS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+540,8,M,OSTEOMYELITIS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+541,8,M,OSTEOMYELITIS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+542,8,M,PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+543,8,M,PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+544,8,M,PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+545,8,M,CONNECTIVE TISSUE DISORDERS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+546,8,M,CONNECTIVE TISSUE DISORDERS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+547,8,M,CONNECTIVE TISSUE DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+548,8,M,SEPTIC ARTHRITIS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+549,8,M,SEPTIC ARTHRITIS WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+550,8,M,SEPTIC ARTHRITIS WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+551,8,M,MEDICAL BACK PROBLEMS WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+552,8,M,MEDICAL BACK PROBLEMS WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+553,8,M,BONE DISEASES AND ARTHROPATHIES WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+554,8,M,BONE DISEASES AND ARTHROPATHIES WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+555,8,M,SIGNS AND SYMPTOMS OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+556,8,M,SIGNS AND SYMPTOMS OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITHOUT MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+557,8,M,"TENDONITIS, MYOSITIS AND BURSITIS WITH MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+558,8,M,"TENDONITIS, MYOSITIS AND BURSITIS WITHOUT MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+559,8,M,"AFTERCARE, MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+560,8,M,"AFTERCARE, MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH CC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+561,8,M,"AFTERCARE, MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITHOUT CC/MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+562,8,M,"FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITH MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+563,8,M,"FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+564,8,M,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DIAGNOSES WITH MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+565,8,M,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DIAGNOSES WITH CC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+566,8,M,OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DIAGNOSES WITHOUT CC/MCC,Diseases & Disorders of the Musculoskeletal System & Connective Tissue
+570,9,P,SKIN DEBRIDEMENT WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+571,9,P,SKIN DEBRIDEMENT WITH CC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+572,9,P,SKIN DEBRIDEMENT WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+573,9,P,SKIN GRAFT FOR SKIN ULCER OR CELLULITIS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+574,9,P,SKIN GRAFT FOR SKIN ULCER OR CELLULITIS WITH CC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+575,9,P,SKIN GRAFT FOR SKIN ULCER OR CELLULITIS WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+576,9,P,SKIN GRAFT EXCEPT FOR SKIN ULCER OR CELLULITIS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+577,9,P,SKIN GRAFT EXCEPT FOR SKIN ULCER OR CELLULITIS WITH CC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+578,9,P,SKIN GRAFT EXCEPT FOR SKIN ULCER OR CELLULITIS WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+579,9,P,"OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITH MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+580,9,P,"OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITH CC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+581,9,P,"OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITHOUT CC/MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+582,9,P,MASTECTOMY FOR MALIGNANCY WITH CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+583,9,P,MASTECTOMY FOR MALIGNANCY WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+584,9,P,"BREAST BIOPSY, LOCAL EXCISION AND OTHER BREAST PROCEDURES WITH CC/MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+585,9,P,"BREAST BIOPSY, LOCAL EXCISION AND OTHER BREAST PROCEDURES WITHOUT CC/MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+592,9,M,SKIN ULCERS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+593,9,M,SKIN ULCERS WITH CC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+594,9,M,SKIN ULCERS WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+595,9,M,MAJOR SKIN DISORDERS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+596,9,M,MAJOR SKIN DISORDERS WITHOUT MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+597,9,M,MALIGNANT BREAST DISORDERS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+598,9,M,MALIGNANT BREAST DISORDERS WITH CC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+599,9,M,MALIGNANT BREAST DISORDERS WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+600,9,M,NON-MALIGNANT BREAST DISORDERS WITH CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+601,9,M,NON-MALIGNANT BREAST DISORDERS WITHOUT CC/MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+602,9,M,CELLULITIS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+603,9,M,CELLULITIS WITHOUT MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+604,9,M,"TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITH MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+605,9,M,"TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC","Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+606,9,M,MINOR SKIN DISORDERS WITH MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+607,9,M,MINOR SKIN DISORDERS WITHOUT MCC,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast"
+614,10,P,ADRENAL AND PITUITARY PROCEDURES WITH CC/MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+615,10,P,ADRENAL AND PITUITARY PROCEDURES WITHOUT CC/MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+616,10,P,"AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+617,10,P,"AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+618,10,P,"AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITHOUT CC/MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+619,10,P,O.R. PROCEDURES FOR OBESITY WITH MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+620,10,P,O.R. PROCEDURES FOR OBESITY WITH CC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+621,10,P,O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+622,10,P,"SKIN GRAFTS AND WOUND DEBRIDEMENT FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+623,10,P,"SKIN GRAFTS AND WOUND DEBRIDEMENT FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+624,10,P,"SKIN GRAFTS AND WOUND DEBRIDEMENT FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITHOUT CC/MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+625,10,P,"THYROID, PARATHYROID AND THYROGLOSSAL PROCEDURES WITH MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+626,10,P,"THYROID, PARATHYROID AND THYROGLOSSAL PROCEDURES WITH CC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+627,10,P,"THYROID, PARATHYROID AND THYROGLOSSAL PROCEDURES WITHOUT CC/MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+628,10,P,"OTHER ENDOCRINE, NUTRITIONAL AND METABOLIC O.R. PROCEDURES WITH MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+629,10,P,"OTHER ENDOCRINE, NUTRITIONAL AND METABOLIC O.R. PROCEDURES WITH CC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+630,10,P,"OTHER ENDOCRINE, NUTRITIONAL AND METABOLIC O.R. PROCEDURES WITHOUT CC/MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+637,10,M,DIABETES WITH MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+638,10,M,DIABETES WITH CC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+639,10,M,DIABETES WITHOUT CC/MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+640,10,M,"MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+641,10,M,"MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC","Endocrine, Nutritional & Metabolic Diseases & Disorders"
+642,10,M,INBORN AND OTHER DISORDERS OF METABOLISM,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+643,10,M,ENDOCRINE DISORDERS WITH MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+644,10,M,ENDOCRINE DISORDERS WITH CC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+645,10,M,ENDOCRINE DISORDERS WITHOUT CC/MCC,"Endocrine, Nutritional & Metabolic Diseases & Disorders"
+652,11,P,KIDNEY TRANSPLANT,Diseases & Disorders of the Kidney & Urinary Tract
+653,11,P,MAJOR BLADDER PROCEDURES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+654,11,P,MAJOR BLADDER PROCEDURES WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+655,11,P,MAJOR BLADDER PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+656,11,P,KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+657,11,P,KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+658,11,P,KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+659,11,P,KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+660,11,P,KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+661,11,P,KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+662,11,P,MINOR BLADDER PROCEDURES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+663,11,P,MINOR BLADDER PROCEDURES WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+664,11,P,MINOR BLADDER PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+665,11,P,PROSTATECTOMY WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+666,11,P,PROSTATECTOMY WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+667,11,P,PROSTATECTOMY WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+668,11,P,TRANSURETHRAL PROCEDURES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+669,11,P,TRANSURETHRAL PROCEDURES WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+670,11,P,TRANSURETHRAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+671,11,P,URETHRAL PROCEDURES WITH CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+672,11,P,URETHRAL PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+673,11,P,OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+674,11,P,OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+675,11,P,OTHER KIDNEY AND URINARY TRACT PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+682,11,M,RENAL FAILURE WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+683,11,M,RENAL FAILURE WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+684,11,M,RENAL FAILURE WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+686,11,M,KIDNEY AND URINARY TRACT NEOPLASMS WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+687,11,M,KIDNEY AND URINARY TRACT NEOPLASMS WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+688,11,M,KIDNEY AND URINARY TRACT NEOPLASMS WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+689,11,M,KIDNEY AND URINARY TRACT INFECTIONS WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+690,11,M,KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC,Diseases & Disorders of the Kidney & Urinary Tract
+693,11,M,URINARY STONES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+694,11,M,URINARY STONES WITHOUT MCC,Diseases & Disorders of the Kidney & Urinary Tract
+695,11,M,KIDNEY AND URINARY TRACT SIGNS AND SYMPTOMS WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+696,11,M,KIDNEY AND URINARY TRACT SIGNS AND SYMPTOMS WITHOUT MCC,Diseases & Disorders of the Kidney & Urinary Tract
+697,11,M,URETHRAL STRICTURE,Diseases & Disorders of the Kidney & Urinary Tract
+698,11,M,OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC,Diseases & Disorders of the Kidney & Urinary Tract
+699,11,M,OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC,Diseases & Disorders of the Kidney & Urinary Tract
+700,11,M,OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITHOUT CC/MCC,Diseases & Disorders of the Kidney & Urinary Tract
+707,12,P,MAJOR MALE PELVIC PROCEDURES WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+708,12,P,MAJOR MALE PELVIC PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+709,12,P,PENIS PROCEDURES WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+710,12,P,PENIS PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+711,12,P,TESTES PROCEDURES WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+712,12,P,TESTES PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+713,12,P,TRANSURETHRAL PROSTATECTOMY WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+714,12,P,TRANSURETHRAL PROSTATECTOMY WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+715,12,P,OTHER MALE REPRODUCTIVE SYSTEM O.R. PROCEDURES FOR MALIGNANCY WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+716,12,P,OTHER MALE REPRODUCTIVE SYSTEM O.R. PROCEDURES FOR MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+717,12,P,OTHER MALE REPRODUCTIVE SYSTEM O.R. PROCEDURES EXCEPT MALIGNANCY WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+718,12,P,OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXCEPT MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+722,12,M,"MALIGNANCY, MALE REPRODUCTIVE SYSTEM WITH MCC",Diseases & Disorders of the Male Reproductive System
+723,12,M,"MALIGNANCY, MALE REPRODUCTIVE SYSTEM WITH CC",Diseases & Disorders of the Male Reproductive System
+724,12,M,"MALIGNANCY, MALE REPRODUCTIVE SYSTEM WITHOUT CC/MCC",Diseases & Disorders of the Male Reproductive System
+725,12,M,BENIGN PROSTATIC HYPERTROPHY WITH MCC,Diseases & Disorders of the Male Reproductive System
+726,12,M,BENIGN PROSTATIC HYPERTROPHY WITHOUT MCC,Diseases & Disorders of the Male Reproductive System
+727,12,M,INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM WITH MCC,Diseases & Disorders of the Male Reproductive System
+728,12,M,INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM WITHOUT MCC,Diseases & Disorders of the Male Reproductive System
+729,12,M,OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES WITH CC/MCC,Diseases & Disorders of the Male Reproductive System
+730,12,M,OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES WITHOUT CC/MCC,Diseases & Disorders of the Male Reproductive System
+734,13,P,"PELVIC EVISCERATION, RADICAL HYSTERECTOMY AND RADICAL VULVECTOMY WITH CC/MCC",Diseases & Disorders of the Female Reproductive System
+735,13,P,"PELVIC EVISCERATION, RADICAL HYSTERECTOMY AND RADICAL VULVECTOMY WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+736,13,P,UTERINE AND ADNEXA PROCEDURES FOR OVARIAN OR ADNEXAL MALIGNANCY WITH MCC,Diseases & Disorders of the Female Reproductive System
+737,13,P,UTERINE AND ADNEXA PROCEDURES FOR OVARIAN OR ADNEXAL MALIGNANCY WITH CC,Diseases & Disorders of the Female Reproductive System
+738,13,P,UTERINE AND ADNEXA PROCEDURES FOR OVARIAN OR ADNEXAL MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Female Reproductive System
+739,13,P,"UTERINE, ADNEXA PROCEDURES FOR NON-OVARIAN AND NON-ADNEXAL MALIGNANCY WITH MCC",Diseases & Disorders of the Female Reproductive System
+740,13,P,"UTERINE, ADNEXA PROCEDURES FOR NON-OVARIAN AND NON-ADNEXAL MALIGNANCY WITH CC",Diseases & Disorders of the Female Reproductive System
+741,13,P,"UTERINE, ADNEXA PROCEDURES FOR NON-OVARIAN AND NON-ADNEXAL MALIGNANCY WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+742,13,P,UTERINE AND ADNEXA PROCEDURES FOR NON-MALIGNANCY WITH CC/MCC,Diseases & Disorders of the Female Reproductive System
+743,13,P,UTERINE AND ADNEXA PROCEDURES FOR NON-MALIGNANCY WITHOUT CC/MCC,Diseases & Disorders of the Female Reproductive System
+744,13,P,"D&C, CONIZATION, LAPAROSCOPY AND TUBAL INTERRUPTION WITH CC/MCC",Diseases & Disorders of the Female Reproductive System
+745,13,P,"D&C, CONIZATION, LAPAROSCOPY AND TUBAL INTERRUPTION WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+746,13,P,"VAGINA, CERVIX AND VULVA PROCEDURES WITH CC/MCC",Diseases & Disorders of the Female Reproductive System
+747,13,P,"VAGINA, CERVIX AND VULVA PROCEDURES WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+748,13,P,FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES,Diseases & Disorders of the Female Reproductive System
+749,13,P,OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES WITH CC/MCC,Diseases & Disorders of the Female Reproductive System
+750,13,P,OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES WITHOUT CC/MCC,Diseases & Disorders of the Female Reproductive System
+754,13,M,"MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM WITH MCC",Diseases & Disorders of the Female Reproductive System
+755,13,M,"MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM WITH CC",Diseases & Disorders of the Female Reproductive System
+756,13,M,"MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+757,13,M,"INFECTIONS, FEMALE REPRODUCTIVE SYSTEM WITH MCC",Diseases & Disorders of the Female Reproductive System
+758,13,M,"INFECTIONS, FEMALE REPRODUCTIVE SYSTEM WITH CC",Diseases & Disorders of the Female Reproductive System
+759,13,M,"INFECTIONS, FEMALE REPRODUCTIVE SYSTEM WITHOUT CC/MCC",Diseases & Disorders of the Female Reproductive System
+760,13,M,MENSTRUAL AND OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS WITH CC/MCC,Diseases & Disorders of the Female Reproductive System
+761,13,M,MENSTRUAL AND OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS WITHOUT CC/MCC,Diseases & Disorders of the Female Reproductive System
+768,14,P,VAGINAL DELIVERY WITH O.R. PROC EXCEPT STERIL &/OR D&C,"Pregnancy, Childbirth & the Puerperium"
+769,14,P,POSTPARTUM AND POST ABORTION DIAGNOSES WITH O.R. PROCEDURE,"Pregnancy, Childbirth & the Puerperium"
+770,14,P,"ABORTION WITH D&C, ASPIRATION CURETTAGE OR HYSTEROTOMY","Pregnancy, Childbirth & the Puerperium"
+776,14,M,POSTPARTUM AND POST ABORTION DIAGNOSES WITHOUT O.R. PROCEDURE,"Pregnancy, Childbirth & the Puerperium"
+779,14,M,ABORTION WITHOUT D&C,"Pregnancy, Childbirth & the Puerperium"
+783,14,P,CESAREAN SECTION WITH STERILIZATION WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+784,14,P,CESAREAN SECTION WITH STERILIZATION WITH CC,"Pregnancy, Childbirth & the Puerperium"
+785,14,P,CESAREAN SECTION WITH STERILIZATION WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+786,14,P,CESAREAN SECTION WITHOUT STERILIZATION WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+787,14,P,CESAREAN SECTION WITHOUT STERILIZATION WITH CC,"Pregnancy, Childbirth & the Puerperium"
+788,14,P,CESAREAN SECTION WITHOUT STERILIZATION WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+789,15,M,"NEONATES, DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY",Newborn And Other Neonates (Perinatal Period)
+790,15,M,"EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME, NEONATE",Newborn And Other Neonates (Perinatal Period)
+791,15,M,PREMATURITY WITH MAJOR PROBLEMS,Newborn And Other Neonates (Perinatal Period)
+792,15,M,PREMATURITY WITHOUT MAJOR PROBLEMS,Newborn And Other Neonates (Perinatal Period)
+793,15,M,FULL TERM NEONATE WITH MAJOR PROBLEMS,Newborn And Other Neonates (Perinatal Period)
+794,15,M,NEONATE WITH OTHER SIGNIFICANT PROBLEMS,Newborn And Other Neonates (Perinatal Period)
+795,15,M,NORMAL NEWBORN,Newborn And Other Neonates (Perinatal Period)
+796,14,P,VAGINAL DELIVERY WITH STERILIZATION/D&C WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+797,14,P,VAGINAL DELIVERY WITH STERILIZATION/D&C WITH CC,"Pregnancy, Childbirth & the Puerperium"
+798,14,P,VAGINAL DELIVERY WITH STERILIZATION/D&C WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+799,16,P,SPLENECTOMY WITH MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+800,16,P,SPLENECTOMY WITH CC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+801,16,P,SPLENECTOMY WITHOUT CC/MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+802,16,P,OTHER O.R. PROCEDURES OF THE BLOOD AND BLOOD FORMING ORGANS WITH MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+803,16,P,OTHER O.R. PROCEDURES OF THE BLOOD AND BLOOD FORMING ORGANS WITH CC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+804,16,P,OTHER O.R. PROCEDURES OF THE BLOOD AND BLOOD FORMING ORGANS WITHOUT CC/MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+805,14,M,VAGINAL DELIVERY WITHOUT STERILIZATION/D&C WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+806,14,M,VAGINAL DELIVERY WITHOUT STERILIZATION/D&C WITH CC,"Pregnancy, Childbirth & the Puerperium"
+807,14,M,VAGINAL DELIVERY WITHOUT STERILIZATION/D&C WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+808,16,M,MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATION DISORDERS WITH MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+809,16,M,MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATION DISORDERS WITH CC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+810,16,M,MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATION DISORDERS WITHOUT CC/MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+811,16,M,RED BLOOD CELL DISORDERS WITH MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+812,16,M,RED BLOOD CELL DISORDERS WITHOUT MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+813,16,M,COAGULATION DISORDERS,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+814,16,M,RETICULOENDOTHELIAL AND IMMUNITY DISORDERS WITH MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+815,16,M,RETICULOENDOTHELIAL AND IMMUNITY DISORDERS WITH CC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+816,16,M,RETICULOENDOTHELIAL AND IMMUNITY DISORDERS WITHOUT CC/MCC,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders"
+817,14,P,OTHER ANTEPARTUM DIAGNOSES WITH O.R. PROCEDURE WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+818,14,P,OTHER ANTEPARTUM DIAGNOSES WITH O.R. PROCEDURE WITH CC,"Pregnancy, Childbirth & the Puerperium"
+819,14,P,OTHER ANTEPARTUM DIAGNOSES WITH O.R. PROCEDURE WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+820,17,P,LYMPHOMA AND LEUKEMIA WITH MAJOR O.R. PROCEDURE WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+821,17,P,LYMPHOMA AND LEUKEMIA WITH MAJOR O.R. PROCEDURE WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+822,17,P,LYMPHOMA AND LEUKEMIA WITH MAJOR O.R. PROCEDURE WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+823,17,P,LYMPHOMA AND NON-ACUTE LEUKEMIA WITH OTHER PROCEDURE WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+824,17,P,LYMPHOMA AND NON-ACUTE LEUKEMIA WITH OTHER PROCEDURE WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+825,17,P,LYMPHOMA AND NON-ACUTE LEUKEMIA WITH OTHER PROCEDURE WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+826,17,P,MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH MAJOR O.R. PROCEDURE WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+827,17,P,MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH MAJOR O.R. PROCEDURE WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+828,17,P,MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH MAJOR O.R. PROCEDURE WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+829,17,P,MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH OTHER PROCEDURE WITH CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+830,17,P,MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH OTHER PROCEDURE WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+831,14,M,OTHER ANTEPARTUM DIAGNOSES WITHOUT O.R. PROCEDURE WITH MCC,"Pregnancy, Childbirth & the Puerperium"
+832,14,M,OTHER ANTEPARTUM DIAGNOSES WITHOUT O.R. PROCEDURE WITH CC,"Pregnancy, Childbirth & the Puerperium"
+833,14,M,OTHER ANTEPARTUM DIAGNOSES WITHOUT O.R. PROCEDURE WITHOUT CC/MCC,"Pregnancy, Childbirth & the Puerperium"
+834,17,M,ACUTE LEUKEMIA WITHOUT MAJOR O.R. PROCEDURE WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+835,17,M,ACUTE LEUKEMIA WITHOUT MAJOR O.R. PROCEDURE WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+836,17,M,ACUTE LEUKEMIA WITHOUT MAJOR O.R. PROCEDURE WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+837,17,M,CHEMOTHERAPY WITH ACUTE LEUKEMIA AS SDX OR WITH HIGH DOSE CHEMOTHERAPY AGENT WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+838,17,M,CHEMOTHERAPY WITH ACUTE LEUKEMIA AS SDX WITH CC OR HIGH DOSE CHEMOTHERAPY AGENT,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+839,17,M,CHEMOTHERAPY WITH ACUTE LEUKEMIA AS SDX WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+840,17,M,LYMPHOMA AND NON-ACUTE LEUKEMIA WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+841,17,M,LYMPHOMA AND NON-ACUTE LEUKEMIA WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+842,17,M,LYMPHOMA AND NON-ACUTE LEUKEMIA WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+843,17,M,OTHER MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASTIC DIAGNOSES WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+844,17,M,OTHER MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASTIC DIAGNOSES WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+845,17,M,OTHER MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASTIC DIAGNOSES WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+846,17,M,CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+847,17,M,CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+848,17,M,CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITHOUT CC/MCC,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+849,17,M,RADIOTHERAPY,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms"
+853,18,P,INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURE WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+854,18,P,INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURE WITH CC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+855,18,P,INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURE WITHOUT CC/MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+856,18,P,POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURE WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+857,18,P,POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURE WITH CC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+858,18,P,POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURE WITHOUT CC/MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+862,18,M,POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+863,18,M,POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITHOUT MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+864,18,M,FEVER AND INFLAMMATORY CONDITIONS,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+865,18,M,VIRAL ILLNESS WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+866,18,M,VIRAL ILLNESS WITHOUT MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+867,18,M,OTHER INFECTIOUS AND PARASITIC DISEASES DIAGNOSES WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+868,18,M,OTHER INFECTIOUS AND PARASITIC DISEASES DIAGNOSES WITH CC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+869,18,M,OTHER INFECTIOUS AND PARASITIC DISEASES DIAGNOSES WITHOUT CC/MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+870,18,M,SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+871,18,M,SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+872,18,M,SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites"
+876,19,P,O.R. PROCEDURE WITH PRINCIPAL DIAGNOSES OF MENTAL ILLNESS,Mental Diseases & Disorders
+880,19,M,ACUTE ADJUSTMENT REACTION AND PSYCHOSOCIAL DYSFUNCTION,Mental Diseases & Disorders
+881,19,M,DEPRESSIVE NEUROSES,Mental Diseases & Disorders
+882,19,M,NEUROSES EXCEPT DEPRESSIVE,Mental Diseases & Disorders
+883,19,M,DISORDERS OF PERSONALITY AND IMPULSE CONTROL,Mental Diseases & Disorders
+884,19,M,ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY,Mental Diseases & Disorders
+885,19,M,PSYCHOSES,Mental Diseases & Disorders
+886,19,M,BEHAVIORAL AND DEVELOPMENTAL DISORDERS,Mental Diseases & Disorders
+887,19,M,OTHER MENTAL DISORDER DIAGNOSES,Mental Diseases & Disorders
+894,20,M,"ALCOHOL, DRUG ABUSE OR DEPENDENCE, LEFT AMA",Alcohol/Drug Use or Induced Mental Disorders
+895,20,M,"ALCOHOL, DRUG ABUSE OR DEPENDENCE WITH REHABILITATION THERAPY",Alcohol/Drug Use or Induced Mental Disorders
+896,20,M,"ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",Alcohol/Drug Use or Induced Mental Disorders
+897,20,M,"ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",Alcohol/Drug Use or Induced Mental Disorders
+901,21,P,WOUND DEBRIDEMENTS FOR INJURIES WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+902,21,P,WOUND DEBRIDEMENTS FOR INJURIES WITH CC,"Injuries, Poisonings & Toxic Effects of Drugs"
+903,21,P,WOUND DEBRIDEMENTS FOR INJURIES WITHOUT CC/MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+904,21,P,SKIN GRAFTS FOR INJURIES WITH CC/MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+905,21,P,SKIN GRAFTS FOR INJURIES WITHOUT CC/MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+906,21,P,HAND PROCEDURES FOR INJURIES,"Injuries, Poisonings & Toxic Effects of Drugs"
+907,21,P,OTHER O.R. PROCEDURES FOR INJURIES WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+908,21,P,OTHER O.R. PROCEDURES FOR INJURIES WITH CC,"Injuries, Poisonings & Toxic Effects of Drugs"
+909,21,P,OTHER O.R. PROCEDURES FOR INJURIES WITHOUT CC/MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+913,21,M,TRAUMATIC INJURY WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+914,21,M,TRAUMATIC INJURY WITHOUT MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+915,21,M,ALLERGIC REACTIONS WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+916,21,M,ALLERGIC REACTIONS WITHOUT MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+917,21,M,POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+918,21,M,POISONING AND TOXIC EFFECTS OF DRUGS WITHOUT MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+919,21,M,COMPLICATIONS OF TREATMENT WITH MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+920,21,M,COMPLICATIONS OF TREATMENT WITH CC,"Injuries, Poisonings & Toxic Effects of Drugs"
+921,21,M,COMPLICATIONS OF TREATMENT WITHOUT CC/MCC,"Injuries, Poisonings & Toxic Effects of Drugs"
+922,21,M,"OTHER INJURY, POISONING AND TOXIC EFFECT DIAGNOSES WITH MCC","Injuries, Poisonings & Toxic Effects of Drugs"
+923,21,M,"OTHER INJURY, POISONING AND TOXIC EFFECT DIAGNOSES WITHOUT MCC","Injuries, Poisonings & Toxic Effects of Drugs"
+927,22,P,EXTENSIVE BURNS OR FULL THICKNESS BURNS WITH MV >96 HOURS WITH SKIN GRAFT,Burns
+928,22,P,FULL THICKNESS BURN WITH SKIN GRAFT OR INHALATION INJURY WITH CC/MCC,Burns
+929,22,P,FULL THICKNESS BURN WITH SKIN GRAFT OR INHALATION INJURY WITHOUT CC/MCC,Burns
+933,22,M,EXTENSIVE BURNS OR FULL THICKNESS BURNS WITH MV >96 HOURS WITHOUT SKIN GRAFT,Burns
+934,22,M,FULL THICKNESS BURN WITHOUT SKIN GRAFT OR INHALATION INJURY,Burns
+935,22,M,NON-EXTENSIVE BURNS,Burns
+939,23,P,O.R. PROCEDURES WITH DIAGNOSES OF OTHER CONTACT WITH HEALTH SERVICES WITH MCC,Factors Influencing Health Status & Other Contacts with Health Services
+940,23,P,O.R. PROCEDURES WITH DIAGNOSES OF OTHER CONTACT WITH HEALTH SERVICES WITH CC,Factors Influencing Health Status & Other Contacts with Health Services
+941,23,P,O.R. PROCEDURES WITH DIAGNOSES OF OTHER CONTACT WITH HEALTH SERVICES WITHOUT CC/MCC,Factors Influencing Health Status & Other Contacts with Health Services
+945,23,M,REHABILITATION WITH CC/MCC,Factors Influencing Health Status & Other Contacts with Health Services
+946,23,M,REHABILITATION WITHOUT CC/MCC,Factors Influencing Health Status & Other Contacts with Health Services
+947,23,M,SIGNS AND SYMPTOMS WITH MCC,Factors Influencing Health Status & Other Contacts with Health Services
+948,23,M,SIGNS AND SYMPTOMS WITHOUT MCC,Factors Influencing Health Status & Other Contacts with Health Services
+949,23,M,AFTERCARE WITH CC/MCC,Factors Influencing Health Status & Other Contacts with Health Services
+950,23,M,AFTERCARE WITHOUT CC/MCC,Factors Influencing Health Status & Other Contacts with Health Services
+951,23,M,OTHER FACTORS INFLUENCING HEALTH STATUS,Factors Influencing Health Status & Other Contacts with Health Services
+955,24,P,CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA,Multiple Significant Trauma
+956,24,P,"LIMB REATTACHMENT, HIP AND FEMUR PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA",Multiple Significant Trauma
+957,24,P,OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA WITH MCC,Multiple Significant Trauma
+958,24,P,OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA WITH CC,Multiple Significant Trauma
+959,24,P,OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA WITHOUT CC/MCC,Multiple Significant Trauma
+963,24,M,OTHER MULTIPLE SIGNIFICANT TRAUMA WITH MCC,Multiple Significant Trauma
+964,24,M,OTHER MULTIPLE SIGNIFICANT TRAUMA WITH CC,Multiple Significant Trauma
+965,24,M,OTHER MULTIPLE SIGNIFICANT TRAUMA WITHOUT CC/MCC,Multiple Significant Trauma
+969,25,P,HIV WITH EXTENSIVE O.R. PROCEDURE WITH MCC,Human Immunodeficiency Virus Infections
+970,25,P,HIV WITH EXTENSIVE O.R. PROCEDURE WITHOUT MCC,Human Immunodeficiency Virus Infections
+974,25,M,HIV WITH MAJOR RELATED CONDITION WITH MCC,Human Immunodeficiency Virus Infections
+975,25,M,HIV WITH MAJOR RELATED CONDITION WITH CC,Human Immunodeficiency Virus Infections
+976,25,M,HIV WITH MAJOR RELATED CONDITION WITHOUT CC/MCC,Human Immunodeficiency Virus Infections
+977,25,M,HIV WITH OR WITHOUT OTHER RELATED CONDITION,Human Immunodeficiency Virus Infections
+981,,P,EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC,MDC Category Missing
+982,,P,EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC,MDC Category Missing
+983,,P,EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITHOUT CC/MCC,MDC Category Missing
+987,,P,NON-EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC,MDC Category Missing
+988,,P,NON-EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC,MDC Category Missing
+989,,P,NON-EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS WITHOUT CC/MCC,MDC Category Missing
+998,,,PRINCIPAL DIAGNOSIS INVALID AS DISCHARGE DIAGNOSIS,MDC Category Missing
+999,,,UNGROUPABLE,MDC Category Missing
